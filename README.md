@@ -1,8 +1,8 @@
 ![Image](https://img.shields.io/badge/Microverse-blueviolet)
 
-# ... project
+# <project-name> project
 
-> This project is ...
+> This project is .
 
 > [Here is a screenshot](https://projects.microverse.datanet-pt.net/.../app_screenshot.png)
 
@@ -11,8 +11,8 @@
 ## Built With
 
 - Major languages
-    - ...
-    - ...
+    - HTML
+    - CSS
 - Frameworks
     - None
 - Technologies used
@@ -45,7 +45,7 @@
 
 ### Install
 
-> ***git clone https://github.com/Microverse-ajgomes/<repo-name>.git***
+> ***git clone https://github.com/Microverse-ajgomes/<project-name>.git***
 
 ### Usage
 
